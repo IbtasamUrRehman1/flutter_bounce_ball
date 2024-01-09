@@ -1,0 +1,49 @@
+name: flutter_bounce_ball
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+platforms:
+  ios:
+  android:
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# Metadata for the package.
+# Update with your information.
+author: Ibtasam Ur Rehman
+repository: https://github.com/IbtasamUrRehman1/flutter_bounce_ball.git
+
+# License for your package.
+# Choose a license that suits your project.
+license: MIT
+
+# Description of your package.
+# Include additional details about your package.
+description: >
+  A Flutter package providing a customizable bouncing ball loader.
+  This loader consists of a bouncing ball within a circular container.
+
+# Additional metadata.
+# Update with your information.
+publish_to: 'none' # Set to 'none' for local testing.
+
+# Add tags to help users find your package on pub.dev.
+# Customize as needed.
+keywords:
+  - flutter
+  - loader
+  - animation
+  - custom
